@@ -1,7 +1,7 @@
 # moocrypt
 Encrypt all file in folder
 
-*This project is under experiment and development - not ready to use !!!*
+*This project is made for personal used, you may take it by your own risk*
 
 **Example Usage: **
 
