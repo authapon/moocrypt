@@ -7,10 +7,10 @@ Encrypt all file in folder
 
 
 to encrypt file:
-
+```
 moocrypt -encrypt
-
+```
 to decrypt file:
-
+```
 moocrypt -decrypt
-
+```
