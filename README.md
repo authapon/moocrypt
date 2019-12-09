@@ -1,5 +1,5 @@
 # moocrypt
-Encrypt all file in folder
+Encryption and Decryption all file in folder
 
 *This project is made for personal used, you may take it by your own risk*
 
