@@ -1,7 +1,7 @@
 # moocrypt
 Encryption and Decryption all file in folder
 
-*This project is made for personal used, you may take it by your own risk*
+*This project is developed for personal used - you can use it by your own risk and purpose !!!*
 
 **Example Usage: **
 
